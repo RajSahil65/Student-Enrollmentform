@@ -67,23 +67,17 @@ Example request sent to JsonPowerDB when saving:
   "rel": "STUDENT-TABLE",
   "jsonStr": {
     "rollNo": "1",
-    "fullName": "Vijay",
-    "stuClass": "10",
-    "birthDate": "2010-05-14",
-    "address": "Pune",
-    "enrollDate": "2024-06-15"
+    "fullName": "Sahil",
+    "stuClass": "2",
+    "birthDate": "2021-11-09",
+    "address": "roorkee",
+    "enrollDate": "2026-11-26"
   }
 }
 ```
 
 ## Screenshots
 
-Add screenshots of the working form here (for example, an empty form, a saved record and the Update view), so reviewers can see the project without a token:
-
-```
-![Empty form](screenshots/empty-form.png)
-![Existing record loaded](screenshots/record-loaded.png)
-```
 
 ## Development setup
 
@@ -99,8 +93,7 @@ No installation is needed. Edit the files and refresh the browser:
     * The first proper release: Student Enrollment Form with Save, Update and Reset using the JsonPowerDB PUT, GET_BY_KEY and UPDATE commands.
 
 ## Meta
-
-Your Name – Sahil Raj
+ Name – Sahil Raj
 
 Project link: https://github.com/RajSahil65/Student-Enrollmentform
 
